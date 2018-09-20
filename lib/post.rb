@@ -14,7 +14,9 @@ class Post
     
   end
   
-  dfe
+  def author_name
+    
+  end
   
   
 end
