@@ -12,11 +12,11 @@ class Artist
   
   def add_song_by_name(name)
     song=Song.new(name)
-    
+    @songs << song
   end
   
   def song.song_count
-    
+    @songs.count
   end
   
 end
