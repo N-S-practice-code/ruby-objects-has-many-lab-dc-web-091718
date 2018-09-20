@@ -6,11 +6,11 @@ class Author
     @songs=[]
   end
   
-  def add_song
+  def add_post(post)
     
   end
   
-  def add_song_by_name()
+  def add_post_by_title()
     
   end
   
