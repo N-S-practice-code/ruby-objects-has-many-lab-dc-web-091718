@@ -10,6 +10,11 @@ class Post
     @author=nil
   end
   
+  def self.all
+    
+  end
+  
+  dfe
   
   
 end
