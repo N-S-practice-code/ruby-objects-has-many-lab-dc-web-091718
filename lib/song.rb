@@ -8,5 +8,10 @@ class Song
     @@all << self
     @artist=nil
   end
+  
+  
+  def artist_name
+   return @artist.name if @artist
+  end
  
 end
