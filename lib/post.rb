@@ -10,4 +10,6 @@ class Post
     @author=nil
   end
   
+  
+  
 end
